@@ -4,4 +4,4 @@ neymar.jpg
 # Arquivos em diretores especificos
 /proibidos
 #Extensoes proibidas
-#*exe
+*.exe
